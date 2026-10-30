@@ -1,0 +1,12 @@
+# Dossiers de temps OpenFOAM (résultats), on garde 0/
+
+[1-9]*/
+0.[0-9]*/
+processor*/
+postProcessing/
+dynamicCode/
+#maillage genere par blockMesh (se regenere)
+constant/polyMesh/
+#Fichiers temporaires
+*.foam
+log.*
